@@ -1,6 +1,6 @@
 # Sport AI Script
 
-> So In the last Fitness Manic as a orgnier we faced a mojor issue of counting the Reps of Participates in diffrent activites so i made a script to simple count the Repetation of a particular activity.
+> Script to  count the Repitation of a Particular Sports activity.
 
 > The human body is detected with the help of the [Mediapipe](https://github.com/google/mediapipe) library. Then, using the mathematical methods applied, it is determined how much the exercise count is done.
 
@@ -72,8 +72,3 @@ python main.py -t sit-up
 # or python main.py -t squat
 # or python main.py -t walk
 ```
-
-
-## Note
-
-I"ll add other Exercise Demo too it just i dont workout often xD!!
